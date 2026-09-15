@@ -20,3 +20,7 @@ local/
 
 # Sphinx autosummary-generated API stub pages (regenerated on every docs build)
 docs/python/api/generated/
+
+# Variable mapping (local/generated)
+python/variable_mapping.md
+python/variable_mapping_prompt.md
